@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-•	Created a currency converter application using the React framework
-•	Relevant and up-to-date data is grabbed through an exchange rates API
+Created a currency converter application using the React framework
+Relevant and up-to-date data is grabbed through an exchange rates API
 
 ## Available Scripts
 
